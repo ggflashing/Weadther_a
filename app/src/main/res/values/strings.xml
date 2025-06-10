@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weadther_a</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+
+    <string name="sunrise">AM \nSunrise</string>
+    <string name="sunset">PM \nSunset</string>
+</resources>
